@@ -1,0 +1,2 @@
+baseURL = "https://cskrt.github.io/cskrt/"
+publishDir = "public"
